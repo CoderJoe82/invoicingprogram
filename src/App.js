@@ -4,6 +4,7 @@ import {
   Routes,
   Route,
 } from 'react-router-dom'
+import LandingPage from './Components/LandingPage/landing.page';
 
 function App() {
   return (
